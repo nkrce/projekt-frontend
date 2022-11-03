@@ -1,5 +1,5 @@
 # "BookBazaar" - frontend
-Aplikacija za prodaju i razmjenu rabljenih knjiga.
+Aplikacija za prodaju, kupnju i razmjenu rabljenih knjiga.
 
 Grupa korisnika: ljubitelji knjiga koji žele kupiti rabljene knjige po povoljnim cijenama
 
