@@ -1,1 +1,1 @@
-# projekt-frontend
+# BookBazaar-frontend
